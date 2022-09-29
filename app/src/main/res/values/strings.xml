@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hello - Varias Telas</string>
+    <string name="enviar">Enviar</string>
+    <string name="insira_um_nome">Insira um nome</string>
 </resources>
